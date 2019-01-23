@@ -20,7 +20,7 @@ for i in {00001..02889}; do
 done
 
 echo "Clean up not used files"
-rm RF*.fa 2> /dev/null
+rm RF*.fa* 2> /dev/null
 echo "Finished"
 
 exit 0;
