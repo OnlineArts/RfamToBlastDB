@@ -14,4 +14,5 @@ Just run:
 * cat
 * sort
 * uniq
+* awk
 * ncbi-blast+
